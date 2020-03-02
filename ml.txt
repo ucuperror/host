@@ -1,5 +1,6 @@
 127.0.0.1 localhost1
 ::       ip6-localhost
+
 127.0.0.1 gameguardian.net
 127.0.0.1 cs30.net
 127.0.0.1 wscdn.ml.youngjoygame.com
